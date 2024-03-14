@@ -5,7 +5,7 @@ Hey there! I'm Shreya, and this is my personal GitHub repository—a place where
 ## About Me ℹ️
 
 - 📚 I'm a Computer science student with a focus on IOT & cybersecurity
-- 🌟 I'm currently learning IIS(Introduction to Information Security .
+- 🌟 I'm currently learning Fundamentals of Iot .
 - 💻 I primarily work with c++
 
 ## Connect with Me 🌐
